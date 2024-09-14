@@ -3,7 +3,7 @@
 Plugin Name: After Registration Redirect
 Plugin URI : https://wordpress.org/plugins/wp-after-registration-redirect-user-advanced/
 Description: Redirect User After Registration To Any Page You Select.
-Version: 1.0.2
+Version: 1.0.4
 Author: Sajjad Hossain Sagor
 Author URI: https://profiles.wordpress.org/sajjad67
 Text Domain: wpaura
